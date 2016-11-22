@@ -3,3 +3,5 @@
 3. liming
 4.luoding
 5.lijing
+Git is a distributed version control system.
+Git is free software.
